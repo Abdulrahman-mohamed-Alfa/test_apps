@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "test_app",
+    'name': "test_app75275785",
 
     'summary': "Short (1 phrase/line) summary of the module's purpose",
 
